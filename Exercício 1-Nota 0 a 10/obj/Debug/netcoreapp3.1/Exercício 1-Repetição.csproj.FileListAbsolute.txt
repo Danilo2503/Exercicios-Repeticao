@@ -1,0 +1,26 @@
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.exe
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.deps.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.dll
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.pdb
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.dll
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.pdb
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Repetição\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.genruntimeconfig.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.exe
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.deps.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.dll
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\bin\Debug\netcoreapp3.1\Exercício 1-Repetição.pdb
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.dll
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.pdb
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 1-Nota 0 a 10\obj\Debug\netcoreapp3.1\Exercício 1-Repetição.genruntimeconfig.cache
