@@ -1,0 +1,26 @@
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.exe
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.deps.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.dll
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.pdb
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.dll
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.pdb
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Repetição\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.genruntimeconfig.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.exe
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.deps.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.dll
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\bin\Debug\netcoreapp3.1\Exercício 2-Repetição.pdb
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.dll
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.pdb
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercício 2-Validação de Senha\obj\Debug\netcoreapp3.1\Exercício 2-Repetição.genruntimeconfig.cache
